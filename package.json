@@ -4,6 +4,6 @@
   "private": false,
   "dependencies": {
     "pomelo-sync": "0.0.4",
-    "pomelo-logger": "0.1.6"
+    "pomelo-logger": "0.1.7"
   }
 }
