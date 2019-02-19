@@ -4,6 +4,6 @@
   "private": false,
   "dependencies": {
     "pomelo-sync": "0.0.4",
-    "pomelo-logger": "0.1.7"
+    "pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8"
   }
 }
